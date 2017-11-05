@@ -37,6 +37,7 @@ img.profile {
     width: 50%;
     height: 30%;
     float: right;
+    margin-top: -50px;
 }
 ul.posts { 
     margin: 20px auto 40px; 
