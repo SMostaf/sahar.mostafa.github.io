@@ -34,8 +34,8 @@ footer {
 }
 
 .profile {
-    width: 300px;
-    height: 250px;
+    width: 50%;
+    height: 30%;
     float: right;
 }
 ul.posts { 
